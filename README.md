@@ -1,46 +1,43 @@
-# Getting Started with Create React App
+# EA Social Overlay (Work in Progress)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Demo](https://social-overlay.vercel.app/)
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+EA Social Overlay is a concept project that reimagines how gamers could interact with EA's social features. It's designed to provide a seamless, modern interface for managing gaming relationships and achievements.
 
-### `npm start`
+## Current Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Authentication**: Secure user authentication powered by Firebase
+- **Modern UI Design**: Sleek, dark-themed interface inspired by gaming overlays
+- **Component Structure**:
+  - Profile System
+  - Chat Interface
+  - Notification Feed
+  - Friends List
+  - Game Store Integration (planned)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Tech Stack
 
-### `npm test`
+- React with TypeScript
+- Material-UI (MUI) for components
+- Firebase Authentication & Firestore
+- React Router for navigation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Status
 
-### `npm run build`
+This is a portfolio project currently under development. The main focus has been on:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Implementing a responsive, gaming-inspired UI
+- Setting up Firebase authentication
+- Creating the base component structure
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+More features are planned and in development.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `npm run eject`
+_Coming soon_
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Note
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This is a concept project for portfolio purposes and is not affiliated with Electronic Arts Inc.
